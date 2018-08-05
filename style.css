@@ -1,0 +1,13 @@
+.jumbotron{
+    padding-top: 400px;
+    padding-left: 800px;
+    height: 800px;
+    background-image: url("../PassWordGen/cover4.jpg");
+    background-size: cover;
+}
+
+.heading{
+    color: #eaeaea;
+    font-size: 40px;
+    padding-bottom: 400px;
+}
